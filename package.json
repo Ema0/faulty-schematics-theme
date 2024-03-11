@@ -23,7 +23,7 @@
 			{
 				"label": "FaultySchematics",
 				"uiTheme": "vs-light",
-				"path": "./themes/faulty_schematics.jsonc"
+				"path": "./themes/faulty_schematics.json"
 			}
 		]
 	},
