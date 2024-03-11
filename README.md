@@ -1,4 +1,7 @@
 # Faulty Schematics
+
+![Color identity](https://raw.githubusercontent.com/Ema0/faulty-schematics-theme/main/images/icon.png)
+
 Light theme for VSCode
 
 Inspired by [Humming theme](https://marketplace.visualstudio.com/items?itemName=vtalstudios.humming-theme).
