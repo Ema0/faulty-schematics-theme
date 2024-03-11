@@ -1,0 +1,40 @@
+{
+	"name": "theme-faulty-schematics",
+	"displayName": "Faulty Schematics",
+	"description": "A light colorscheme inspired by Humming theme and retro-futurist sci-fi",
+	"version": "0.0.1",
+	"publisher": "RuinedMachine",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"bugs": {
+		"url": "https://github.com/Ema0/faulty-schematics-theme/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ema0/faulty-schematics-theme"
+	},
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "FaultySchematics",
+				"uiTheme": "vs-light",
+				"path": "./themes/faulty_schematics.jsonc"
+			}
+		]
+	},
+	"keywords": [
+        "theme",
+        "light",
+        "vintage",
+        "orange",
+        "beige",
+        "customization",
+	"retro",
+	"scifi"
+    ]
+}
